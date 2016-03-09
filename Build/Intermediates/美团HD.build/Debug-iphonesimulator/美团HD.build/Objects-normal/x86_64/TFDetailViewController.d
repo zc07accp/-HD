@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Detail/Controller/TFDetailViewController.m \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Detail/Controller/TFDetailViewController.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Home/Model/TFDeal.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/TFConst.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/dianpingapi/DPAPI.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/dianpingapi/DPRequest.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MBProgressHUD/MBProgressHUD+MJ.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MBProgressHUD/MBProgressHUD.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Home/Model/MTRestrictions.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJExtension.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJTypeEncoding.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/NSObject+MJCoding.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/NSObject+MJMember.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJIvar.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJMember.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJType.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJArgument.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/MJMethod.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Lib/MJExtension/NSObject+MJKeyValue.h \
+  /Users/kengsir/Desktop/iOS_Demo-master/美团HD/美团HD/Class/Main/Tool/MTDealTool.h
